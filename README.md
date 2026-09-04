@@ -1,14 +1,14 @@
-# 🌸 Ushaswini Allam — Personal Portfolio
+# Ushaswini Allam — Personal Portfolio
 
-Welcome to my personal portfolio website! ✨
+Welcome to my personal portfolio website.
 
-I am **Ushaswini Allam**, a Computer Science student pursuing an **Integrated M.Tech in Computer Science and Engineering at VIT-AP University**. I am passionate about **Artificial Intelligence, Generative AI, Software Development, and Cloud Technologies**.
+I am Ushaswini Allam, a Computer Science student pursuing an Integrated M.Tech in Computer Science and Engineering at VIT-AP University. I am interested in Artificial Intelligence, Generative AI, Software Development, and Cloud Technologies.
 
 This portfolio showcases my academic journey, technical skills, projects, certifications, and leadership experience.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am a Computer Science student with hands-on experience in:
 
@@ -22,26 +22,26 @@ I am a Computer Science student with hands-on experience in:
 
 I enjoy building practical applications and continuously learning new technologies to solve real-world problems.
 
-### 🎓 Education
+### Education
 
 **VIT-AP University**
 Integrated M.Tech in Computer Science and Engineering
-**2023 – 2028**
-CGPA: **9.09 / 10**
+2023 – 2028
+CGPA: 9.09 / 10
 
 **Bashyam Junior College**
 Intermediate — MPC
-**2021 – 2023**
-Score: **94.2%**
+2021 – 2023
+Score: 94.2%
 
 **Narayana EM School**
 SSC
-**2021**
-Score: **99%**
+2021
+Score: 99%
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. Easy Booking — Cloud Based Travel Booking System
 
@@ -58,17 +58,11 @@ A cloud-based travel booking application developed for seamless bus ticket reser
 * Responsive user interface
 * Cloud-based architecture
 
----
-
 ### 2. Deep Learning Sentiment Analysis using CNN
 
 **Technologies:** Python, CNN, NLP, Deep Learning
 
-A deep learning-based sentiment analysis system designed to classify text into:
-
-* Positive
-* Negative
-* Neutral
+A deep learning-based sentiment analysis system designed to classify text into positive, negative, and neutral sentiments.
 
 **Key Features:**
 
@@ -78,8 +72,6 @@ A deep learning-based sentiment analysis system designed to classify text into:
 * Feature extraction
 * CNN-based classification
 * Model training and evaluation
-
----
 
 ### 3. Eye Blink Detection System
 
@@ -97,7 +89,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -107,7 +99,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ### Core Computer Science
 
-* Data Structures & Algorithms
+* Data Structures and Algorithms
 * Object-Oriented Programming
 * Problem Solving
 
@@ -145,7 +137,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ---
 
-## 💼 Leadership Experience
+## Leadership Experience
 
 ### Marketing Member — DIY Club
 
@@ -168,7 +160,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * **IBM Generative AI Advanced Professional** — 2026
 * **Generative AI Software Engineering Specialization** — 2026
@@ -176,7 +168,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Proficiency  |
 | -------- | ------------ |
@@ -187,7 +179,7 @@ A sensor-based embedded system designed for real-time eye blink detection and mo
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 I am interested in opportunities related to:
 
@@ -202,31 +194,27 @@ I am particularly interested in building scalable, intelligent, and user-friendl
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Ushaswini Allam**
 
-📧 Email: [ushaswiniallam06@gmail.com](mailto:ushaswiniallam06@gmail.com)
-📱 Phone: +91 9581129528
+Email: [ushaswiniallam06@gmail.com](mailto:ushaswiniallam06@gmail.com)
+Phone: +91 9581129528
 
-🔗 LinkedIn: *Add your LinkedIn profile link*
-💻 GitHub: *Add your GitHub profile link*
+LinkedIn: Add your LinkedIn profile link
+GitHub: Add your GitHub profile link
 
 ---
 
-## 🌷 Portfolio
+## Portfolio
 
-This repository contains the source code for my personal portfolio website, developed using:
-
-* HTML
-* CSS
-* JavaScript
+This repository contains the source code for my personal portfolio website, developed using HTML, CSS, and JavaScript.
 
 The portfolio uses a modern, feminine design while maintaining a professional software-engineering focused presentation.
 
 ---
 
-## 💻 Running the Project Locally
+## Running the Project Locally
 
 Clone the repository:
 
@@ -240,11 +228,11 @@ Navigate to the project folder:
 cd 23mic7147
 ```
 
-Open `index.html` in your browser, or use **Live Server** in Visual Studio Code.
+Open `index.html` in your browser, or use Live Server in Visual Studio Code.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 23mic7147/
@@ -261,14 +249,16 @@ Open `index.html` in your browser, or use **Live Server** in Visual Studio Code.
 
 ---
 
-## ✨ Built With
+## Built With
 
-**HTML • CSS • JavaScript • Font Awesome • Google Fonts**
+* HTML
+* CSS
+* JavaScript
+* Font Awesome
+* Google Fonts
 
 ---
 
-⭐ Thank you for visiting my portfolio repository!
+Thank you for visiting my portfolio repository.
 
-**Made with ♡ by Ushaswini Allam**
-
-
+**Made by Ushaswini Allam**
